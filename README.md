@@ -1,2 +1,4 @@
 # trash-art-
-its art about trash 
+## its art about trash 
+heck yeah
+ ( ° ʖ °)
