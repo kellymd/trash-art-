@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+
+    <materials>not trash</materials> 
+        <materialType>photographs of trash</materialType>
+        <publicAccess>no</publicAccess>
+         <accessNote>Installation is no longer running.</accessNote>
+        <theme>self-reflection</theme>
+        <theme>waste</theme>
+    
+    <modsSection>
+        <mods:mods>
+    <mods:titleInfo>
+        <mods:title>Self-portrait as Revealed by Trash:
+            365 days of photographing everything I threw out</mods:title>
+            <mods:partNumber>Variation 1</mods:partNumber>
+        </mods:titleInfo>
+        <mods:name type="personal">
+            <mods:namePart type="family">Gaudreau</mods:namePart>
+            <mods:namePart type="given">Tim</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator">Artist</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:originInfo>
+            <mods:place>
+                <mods:placeTerm>York</mods:placeTerm>
+                <mods:placeTerm authority="marccountry">meu</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>The George Marshall Store Gallery</mods:publisher>
+            <mods:dateCreated encoding="iso8601">2006</mods:dateCreated>
+        </mods:originInfo>
+        <mods:language>
+            <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
+        </mods:language>
+            <mods:abstract>Gaudreau photographed everything he threw out for 365 days in an exploration of waste and his self; Photos then were displayed chaotically covering the walls of a room in the gallery</mods:abstract>
+        <mods:subject authority="AAT">
+            <mods:topic>eco-installation</mods:topic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:form authority="AAT">installation art</mods:form>
+            <mods:extent>5000 photographs</mods:extent>
+        </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+        
+    <vraSection>
+        <vra:work id="davis1" refid="trashart5" source="Trash Art Collection">
+           <vra:culturalContextSet>
+               <vra:culturalContext vocab="ULAN Nationalities and Places">American</vra:culturalContext>
+           </vra:culturalContextSet>
+           <vra:rightsSet>
+               <vra:rights type="copyrighted">
+                   <vra:rightsHolder>Gaudreau, Tim</vra:rightsHolder>
+               </vra:rights>
+           </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
