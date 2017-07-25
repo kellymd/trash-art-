@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+
+    <materials>trash</materials> 
+        <materialType>junk</materialType>   
+            <hours>
+                <startHour>12:00:00</startHour>
+                <endHour>12:00:00</endHour>
+            </hours>
+            <publicAccess>yes</publicAccess>
+                <accessNote></accessNote>
+        <theme>consumerism</theme>
+    
+    <modsSection>
+        <mods:mods>
+    <mods:titleInfo>
+            <mods:title></mods:title>
+            <mods:subTitle></mods:subTitle>
+            <mods:partNumber></mods:partNumber>
+            <mods:partName></mods:partName>
+            <mods:nonSort></mods:nonSort>
+        </mods:titleInfo>
+        <mods:name type="corporate" authority="">
+            <mods:namePart type="family"></mods:namePart>
+            <mods:affiliation></mods:affiliation>
+            <mods:role>
+                <mods:roleTerm authority=""></mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:originInfo>
+            <mods:place>
+                <mods:placeTerm></mods:placeTerm>
+            </mods:place>
+            <mods:publisher></mods:publisher>
+            <mods:dateCreated> encoding=""></mods:dateCreated>
+            <mods:issuance>continuing</mods:issuance>
+            <mods:frequency authority="marc"></mods:frequency>
+        </mods:originInfo>
+        <mods:language>
+            <mods:languageTerm authority="iso639-3"></mods:languageTerm>
+        </mods:language>
+        <mods:abstract></mods:abstract>
+        <mods:subject authority="">
+            <mods:topic></mods:topic>
+            <mods:geographic></mods:geographic>
+            <mods:name></mods:name>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:form authority=""></mods:form>
+            <mods:extent></mods:extent>
+            <mods:note></mods:note>
+        </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+        
+    <vraSection>
+        <vra:work>
+           <vra:culturalContextSet>
+               <vra:culturalContext vocab=""></vra:culturalContext>
+           </vra:culturalContextSet>
+           <vra:rightsSet>
+               <vra:rights type="">
+                   <vra:rightsHolder></vra:rightsHolder>
+                   <vra:text></vra:text>
+               </vra:rights>
+           </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
