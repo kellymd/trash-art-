@@ -19,7 +19,7 @@
                 <xs:element ref="trashArt:materials" minOccurs="0"/>
                 <xs:element name="materialType" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
                 <xs:element ref="trashArt:hours" minOccurs="0"/>
-                <xs:element ref="trashArt:publicAccess"/>
+                <xs:element ref="trashArt:publicAccess" minOccurs="0"/>
                 <xs:element name="accessNote" type="xs:string"/>
                 <xs:element ref="trashArt:theme" maxOccurs="unbounded"/>
                 <xs:element ref="trashArt:modsSection" minOccurs="0"/>
