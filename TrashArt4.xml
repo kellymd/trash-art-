@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+    
+    <materials>trash</materials> 
+    <materialType>recycled materials and found objects</materialType>   
+    <hours>
+        <startHour>10:00:00</startHour>
+        <endHour>18:00:00</endHour>
+    </hours>
+    <publicAccess>yes</publicAccess>
+    <accessNote>Accessible at Saatchi Gallery, London, UK</accessNote>
+    <theme>depression</theme>
+    <theme>disgust</theme>
+    <theme>self-reflection</theme>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>My bed</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Emin</mods:namePart>
+                <mods:namePart type="given">Tracey</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">Artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm>London</mods:placeTerm>
+                    <mods:placeTerm authority="marccountry">xxk</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
+            </mods:language>
+            <mods:abstract>This is a ready-made installation of  the artist’s own bed. Emin spent several weeks of a depressive episode drinking, eating, smoking, and having sex in the bed, discarding items like condoms, dirty underwear, and other trash. Its premier installation caused much furor in the British media.</mods:abstract>
+            <mods:subject authority="LCSH">
+                <mods:topic>found objects (art)</mods:topic>
+                <mods:topic>trash art</mods:topic>
+            </mods:subject>
+            <mods:physicalDescription>
+                <mods:form authority="AAT">installation art</mods:form>
+                <mods:form authority="AAT">ready-mades</mods:form>
+                <mods:extent>1 sculpture</mods:extent>
+            </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+    
+    <vraSection>
+        <vra:work id="carmichael5" refid="trashart4" source="Trash Art Collection">
+            <vra:culturalContextSet>
+                <vra:culturalContext vocab="ULAN Nationalities and Places">British (modern)</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>Emin, Tracey</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
+
+
