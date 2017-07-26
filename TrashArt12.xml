@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+    
+    <materials>trash</materials> 
+    <materialType>recycled materials and found objects</materialType>   
+    <hours>
+        <startHour>12:00:00</startHour>
+        <endHour>12:00:00</endHour>
+    </hours>
+    <publicAccess>yes</publicAccess>
+    <accessNote>open by appointment</accessNote>
+    <theme>fun</theme>
+    <theme>carnival</theme>
+    <theme>sentimentality</theme>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Hamtramck Disneyland</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Szylak</mods:namePart>
+                <mods:namePart type="given">Dmytro</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm>Hamtramck</mods:placeTerm>
+                    <mods:placeTerm>Michigan</mods:placeTerm>
+                    <mods:placeTerm authority="marccountry">xxu</mods:placeTerm>
+                </mods:place>
+                <mods:dateCreated encoding="iso8601">1992</mods:dateCreated>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
+            </mods:language>
+            <mods:abstract>Americana-influenced backyard folk art comprising of a colorful collection of objects.</mods:abstract>
+            <mods:subject authority="AAT">
+                <mods:topic>outdoor sculpture</mods:topic>
+                <mods:topic>Americana</mods:topic>
+            </mods:subject>
+            <mods:physicalDescription>
+                <mods:form authority="AAT">installation art</mods:form>
+                <mods:extent>1,945 square feet</mods:extent>
+            </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+    
+    <vraSection>
+        <vra:work id="carmichael7" refid="trashart12" source="Trash Art Collection">
+            <vra:culturalContextSet>
+                <vra:culturalContext vocab="ULAN Nationalities and Places">American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:rightsSet>
+                <vra:rights type="coprighted">
+                    <vra:rightsHolder>Hatch Art Collective</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
+
+
