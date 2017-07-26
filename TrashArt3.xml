@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+    
+    <materials>trash</materials> 
+    <materialType>recycled materials and found objects</materialType>   
+    <hours>
+        <startHour>10:00:00</startHour>
+        <endHour>17:00:00</endHour>
+    </hours>
+    <publicAccess>yes</publicAccess>
+    <accessNote>Accessible at Mattress Factory Row House, 516 Sampsonia Way, Pittsburgh, PA</accessNote>
+    <theme>transformation</theme>
+    <theme>sentimentality</theme>
+    <theme>carnival</theme>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>A second home</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Maher</mods:namePart>
+                <mods:namePart type="given">Dennis</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">Artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm>Pittsburgh</mods:placeTerm>
+                    <mods:placeTerm>Pennsylvania</mods:placeTerm>
+                    <mods:placeTerm authority="marccountry">xxu</mods:placeTerm>
+                </mods:place>
+                <mods:dateCreated encoding="iso8601">2016</mods:dateCreated>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
+            </mods:language>
+            <mods:abstract>Maher’s installation in three floors of a Pittsburgh rowhouse integrates salvaged and found objects, among other materials, into an immersive audiovisual, three-dimensional artwork.</mods:abstract>
+            <mods:subject authority="LCSH">
+                <mods:topic>found objects (art)</mods:topic>
+                <mods:topic>Site-specific installations (Art)</mods:topic>
+            </mods:subject>
+            <mods:physicalDescription>
+                <mods:form authority="AAT">installation art</mods:form>
+                <mods:extent>3 floors of 1 building</mods:extent>
+            </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+    
+    <vraSection>
+        <vra:work id="carmichael6" refid="trashart3" source="Trash Art Collection">
+            <vra:culturalContextSet>
+                <vra:culturalContext vocab="ULAN Nationalities and Places">American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>Maher, Dennis</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
