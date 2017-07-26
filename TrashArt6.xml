@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+    
+    <materials>not trash</materials>
+    <materialType>documentary</materialType>
+    <publicAccess>no</publicAccess>
+    <accessNote>not applicable</accessNote>
+    <theme>self-reflection</theme>
+    <theme>waste</theme>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Lixo extraordinario</mods:title>
+                <mods:subTitle>[documentario]</mods:subTitle>
+            </mods:titleInfo>
+            <mods:titleInfo type="uniform">
+                <mods:title>Waste land (Motion picture)</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Walker</mods:namePart>
+                <mods:namePart type="given">Lucy</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">film director</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart type="family">Levine</mods:namePart>
+                <mods:namePart type="given">Hank</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">film producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart type="family">Aynsley</mods:namePart>
+                <mods:namePart type="given">Angus</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">film producer</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart type="family">Muniz</mods:namePart>
+                <mods:namePart type="given">Vik</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>Almega Projects (Firm)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">production company</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>02 Filmes (Firm)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">production company</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>Paris Filmes (Firm)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text" authority="marcrelator">film distributor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">bl</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>Paris Filmes</mods:publisher>
+                <mods:dateCreated encoding="iso8601">2011</mods:dateCreated>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm type="code" authority="iso639-2b">por</mods:languageTerm>
+                <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+            </mods:language>
+            <mods:abstract type="summary">This documentary profiles artist Vik Muniz and his work photographing and creating sculptures of catadores (garbage pickers) in Rio de Janeiro’s Jardim Gramacho, the world's largest garbage dump.
+            </mods:abstract> 
+            <mods:subject authority="lcsh">
+                <mods:topic>Refuse disposal facilities</mods:topic>
+                <mods:geographic>Brazil</mods:geographic>
+                <mods:geographic>Rio de Janeiro</mods:geographic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Found objects (Art)</mods:topic>
+            </mods:subject>
+            <mods:physicalDescription>
+                <mods:form authority="AAT">videodiscs (video recording disks)</mods:form>
+                <mods:extent>
+                    viewing copy 1 videodisc (99 min.) : DVD video, sound, color ; 4 3/4 in.
+                </mods:extent>
+            </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+    
+    <vraSection>
+        <vra:work id="carmichael1" refid="trashart6" source="Trash Art Collection">
+            <vra:culturalContextSet>
+                <vra:culturalContext vocab="ULAN Nationalities and Places">Brazilian</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>Walker, Lucy</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
