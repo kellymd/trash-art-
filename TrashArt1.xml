@@ -32,6 +32,7 @@
                     <mods:placeTerm>California</mods:placeTerm>
                     <mods:placeTerm authority="marccountry">xxu</mods:placeTerm>
                 </mods:place>
+                <mods:dateCreated encoding="iso8601">1917</mods:dateCreated>
             </mods:originInfo>
             <mods:language>
                 <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
