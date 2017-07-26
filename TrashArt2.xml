@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+    
+    <materials>trash</materials> 
+    <materialType>recycled materials and found objects</materialType>   
+    <publicAccess>no</publicAccess>
+    <accessNote>current location unknown</accessNote>
+    <theme>waste</theme>
+    <theme>subversion</theme>
+    <theme>recycling</theme>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Castaway Dress</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">DeBris</mods:namePart>
+                <mods:namePart type="given">Marina</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">Artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm authority="marccountry">at</mods:placeTerm>
+                </mods:place>
+                <mods:dateCreated encoding="iso8601">2013</mods:dateCreated>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
+            </mods:language>
+            <mods:abstract>An example of "trashion." This artist’s work consists of trash and found objects from an Australian beach made into a dress and is part of a series of similar works.
+            </mods:abstract>
+            <mods:subject authority="LCSH">
+                <mods:topic>found objects (art)</mods:topic>
+                <mods:topic>trash art</mods:topic>
+            </mods:subject>
+            <mods:physicalDescription>
+                <mods:form authority="AAT">ready-mades</mods:form>
+                <mods:extent>1 dress</mods:extent>
+            </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+    
+    <vraSection>
+        <vra:work id="carmichael6" refid="trashart2" source="Trash Art Collection">
+            <vra:culturalContextSet>
+                <vra:culturalContext vocab="ULAN Nationalities and Places">Australian</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>DeBris, Marina</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
