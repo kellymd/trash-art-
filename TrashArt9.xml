@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+    
+    <materials>not trash</materials> 
+    <materialType>webpage</materialType>   
+    <publicAccess>yes</publicAccess>
+    <accessNote>accessible</accessNote>
+    <theme>art history</theme>
+    <theme>transformation</theme>
+    <theme>impermanence</theme>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Art 101: the history of the found object in art</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Wallace</mods:namePart>
+                <mods:namePart type="given">Ian</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm type="text">author</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:issuance>continuing</mods:issuance>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
+            </mods:language>
+            <mods:abstract>This is a short article that gives an overview of trash or found object artwork, including objet trouvés, readymades, pop art, and more recent trends.</mods:abstract>
+            <mods:subject authority="lcsh">
+                <mods:topic>Art, modern</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Trash art</mods:topic>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:topic>Pop art</mods:topic>
+            </mods:subject>
+            <mods:physicalDescription>
+                <mods:form authority="AAT">	Web pages (documents)</mods:form>
+                <mods:extent>
+                    1 page
+                </mods:extent>
+            </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+    
+    <vraSection>
+        <vra:work id="carmichael2" refid="trashart9" source="Trash Art Collection">
+            <vra:culturalContextSet>
+                <vra:culturalContext vocab="ULAN Nationalities and Places">American</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:rightsSet>
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>Wallace, Ian</vra:rightsHolder>
+                </vra:rights>
+            </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
+
