@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+    
+    <materials>trash</materials> 
+    <materialType>ready-made repurposed object</materialType>   
+    <publicAccess>yes</publicAccess>
+    <accessNote>Copy at San Francisco Museum of Modern Art</accessNote>
+    <theme>transformation</theme>
+    <theme>art history</theme>
+    <theme>subversion</theme>
+    
+    <modsSection>
+        <mods:mods>
+            <mods:titleInfo>
+                <mods:title>Fountain</mods:title>
+            </mods:titleInfo>
+            <mods:name type="personal">
+                <mods:namePart type="family">Duchamp</mods:namePart>
+                <mods:namePart type="given">Marcel</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">Artist</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm>San Francisco</mods:placeTerm>
+                    <mods:placeTerm authority="marccountry">xxu</mods:placeTerm>
+                </mods:place>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
+                <mods:languageTerm authority="iso639-3">fra</mods:languageTerm>
+            </mods:language>
+            <mods:abstract>Duchamp’s piece is an early example of found object art, and is the pioneering work of dadaism and “ready-made" artwork.</mods:abstract>
+            <mods:subject authority="LCSH">
+                <mods:topic>found objects (art)</mods:topic>
+                <mods:topic>trash art</mods:topic>
+            </mods:subject>
+            <mods:physicalDescription>
+                <mods:form authority="AAT">installation art</mods:form>
+                <mods:form authority="AAT">ready-mades</mods:form>
+                <mods:extent>1 sculpture</mods:extent>
+            </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+    
+    <vraSection>
+        <vra:work id="carmichael3" refid="trashart1" source="Trash Art Collection">
+            <vra:culturalContextSet>
+                <vra:culturalContext vocab="ULAN Nationalities and Places">French</vra:culturalContext>
+            </vra:culturalContextSet>
+            <vra:rightsSet>
+                <vra:rights type="public domain">
+                </vra:rights>
+            </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
