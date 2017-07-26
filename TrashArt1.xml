@@ -29,6 +29,7 @@
             <mods:originInfo>
                 <mods:place>
                     <mods:placeTerm>San Francisco</mods:placeTerm>
+                    <mods:placeTerm>California</mods:placeTerm>
                     <mods:placeTerm authority="marccountry">xxu</mods:placeTerm>
                 </mods:place>
             </mods:originInfo>
@@ -55,7 +56,8 @@
                 <vra:culturalContext vocab="ULAN Nationalities and Places">French</vra:culturalContext>
             </vra:culturalContextSet>
             <vra:rightsSet>
-                <vra:rights type="public domain">
+                <vra:rights type="copyrighted">
+                    <vra:rightsHolder>San Francisco Museum of Modern Art</vra:rightsHolder>
                 </vra:rights>
             </vra:rightsSet>
         </vra:work>
