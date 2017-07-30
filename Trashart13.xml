@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+
+    <materials>trash</materials>
+        <materialType>collected from other people's trash</materialType>  
+    <publicAccess>no</publicAccess>
+    <accessNote>Open to sanitation workers anytime, otherwise email the New York Sanitation Department at tours@dsny.nyc.gov to arrange an appointment.</accessNote>
+        <theme>sentimentality</theme>
+        <theme>waste</theme>
+    
+    <modsSection>
+        <mods:mods>
+    <mods:titleInfo>
+            <mods:title>Treasures in the Trash Museum</mods:title>
+        </mods:titleInfo>
+        <mods:name type="personal">
+            <mods:namePart type="family">Molina</mods:namePart>
+            <mods:namePart type="given">Nelson</mods:namePart>
+            <mods:affiliation>New York City Department of Sanitation</mods:affiliation>
+            <mods:role>
+                <mods:roleTerm authority="AAT">curator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:originInfo>
+            <mods:place>
+                <mods:placeTerm>DSNY Sanitation Garage 11 on 99th street, East Harlem</mods:placeTerm>
+                <mods:placeTerm>New York City</mods:placeTerm>
+                <mods:placeTerm authority="marccountry">nyu</mods:placeTerm>
+            </mods:place>
+            <mods:publisher></mods:publisher>
+            <mods:dateCreated encoding="iso8601">1981</mods:dateCreated>
+        </mods:originInfo>
+            <mods:abstract>Sorted collection of objects salvaged from the garbage by a sanitation worker, known as a trash museum.</mods:abstract>
+        <mods:subject authority="LCSH">
+            <mods:topic>urban sanitation</mods:topic>
+            <mods:topic>museums</mods:topic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:form authority="AAT">ollection (object grouping</mods:form>
+            <mods:extent>more than 50,000 objects</mods:extent>
+        </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+        
+    <vraSection>
+        <vra:collection id="davis3" refid="trashArt13" source="Trash Art Collection">
+           <vra:culturalContextSet>
+               <vra:culturalContext vocab="ULAN Nationalities and Places">America</vra:culturalContext>
+           </vra:culturalContextSet>
+           <vra:rightsSet>
+               <vra:rights type="copyrighted">
+                   <vra:rightsHolder>New York City Department of Sanitation</vra:rightsHolder>
+               </vra:rights>
+           </vra:rightsSet>
+        </vra:collection>
+    </vraSection>
+</trashArt>
+
