@@ -70,7 +70,7 @@
     </modsSection>
         
     <vraSection>
-        <vra:work>
+        <vra:work id="davis2" refid="trashArt11" source="Trash Art Collection>
            <vra:culturalContextSet>
                <vra:culturalContext vocab="ULAN Nationalities and Places">American</vra:culturalContext>
            </vra:culturalContextSet>
