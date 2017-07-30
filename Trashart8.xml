@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+
+    <materials>not trash</materials>    
+            <publicAccess>yes</publicAccess>
+    <accessNote>Available for one dollar and fifty cents at https://cashmattress.bandcamp.com/album/improv-lp/</accessNote>
+        <theme>subversion</theme>
+        <theme>transformation</theme>
+        
+    <modsSection>
+        <mods:mods>
+    <mods:titleInfo>
+            <mods:title>thorns</mods:title>
+            <mods:partName>Improv LP Song 1</mods:partName>
+        </mods:titleInfo>
+        <mods:name type="personal">
+            <mods:namePart type="family">Sanford</mods:namePart>
+            <mods:namePart type="given">Jason</mods:namePart>
+            <mods:affiliation>Neptune</mods:affiliation>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator">musician</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name type="personal">
+                <mods:namePart type="family">Pearson</mods:namePart>
+                <mods:namePart type="given">Mark</mods:namePart>
+                <mods:affiliation>Neptune</mods:affiliation>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">musician</mods:roleTerm>
+                </mods:role>
+        </mods:name>
+        <mods:name type="personal">
+                <mods:namePart type="family">Micka</mods:namePart>
+                <mods:namePart type="given">Kevin</mods:namePart>
+                <mods:affiliation>Neptune</mods:affiliation>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">musician</mods:roleTerm>
+                </mods:role>
+        </mods:name>
+        <mods:originInfo>
+            <mods:place>
+                <mods:placeTerm>Boston</mods:placeTerm>
+                <mods:placeTerm authority="marccountry">mau</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>Golden Lab Records</mods:publisher>
+            <mods:dateCreated encoding="iso8601">20070320</mods:dateCreated>
+            <mods:issuance>monographic</mods:issuance>
+        </mods:originInfo>
+        <mods:abstract>thorns is a track on the Improv LP by the band Neptune, an experimental noise band known for making their instruments out of found scrap metal. The band originally started as a sculptural project in 1994. </mods:abstract>
+        <mods:subject authority="LCSH">
+            <mods:topic>Noise music</mods:topic>
+            <mods:topic>Scrap metal-Recycling</mods:topic>
+            <mods:topic>Song improvisation</mods:topic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:form authority="marccategory">sound recording</mods:form>
+            <mods:extent>10 minutes and 42 seconds</mods:extent>
+            <mods:note>mp3</mods:note>
+        </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+        
+    <vraSection>
+        <vra:work>
+           <vra:culturalContextSet>
+               <vra:culturalContext vocab="ULAN Nationalities and Places">American</vra:culturalContext>
+           </vra:culturalContextSet>
+           <vra:rightsSet>
+               <vra:rights type="copyrighted">
+                   <vra:rightsHolder>Neptune</vra:rightsHolder>
+                   <vra:text>Likely Jason Sanford specfically</vra:text>
+               </vra:rights>
+           </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
