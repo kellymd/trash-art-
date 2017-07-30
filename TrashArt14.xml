@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+
+    <materials>not trash</materials>    
+            <publicAccess>yes</publicAccess>
+    <accessNote>Available for purchase at https://www.amazon.com/Found-Poetry-Review-Multiple-Authors/dp/1500592099/</accessNote>
+        <theme>transformation</theme>
+    
+    <modsSection>
+        <mods:mods>
+    <mods:titleInfo>
+            <mods:title>Found Poetry Review</mods:title>
+            <mods:partNumber>Volume 7</mods:partNumber>
+        </mods:titleInfo>
+        <mods:name type="personal">
+            <mods:namePart type="family">Baker</mods:namePart>
+            <mods:namePart type="given">Jenni</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator">edt</mods:roleTerm>
+                <mods:roleTerm authority="macrelator">cre</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+            <mods:name type="personal">
+                <mods:namePart type="family">Ayer</mods:namePart>
+                <mods:namePart type="given">Beth</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">edt</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        <mods:originInfo>
+            <mods:publisher>CreateSpace Independent Publishing Platform</mods:publisher>
+            <mods:dateCreated encoding="iso8601">20140803</mods:dateCreated>
+            <mods:issuance>continuing</mods:issuance>
+            <mods:frequency authority="marcfrequency">semiannual</mods:frequency>
+        </mods:originInfo>
+        <mods:language>
+            <mods:languageTerm authority="iso639-3">eng</mods:languageTerm>
+        </mods:language>
+            <mods:abstract>Literary magazine, now defunct, centered around the publishing of poetry made from other publications, also known as found poetry.</mods:abstract>
+        <mods:subject authority="LCSH">
+            <mods:topic>Found poetry</mods:topic>
+            <mods:topic>Anthologies</mods:topic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:form authority="marccategory">text</mods:form>
+            <mods:extent>6 x 0.2 x 9 inches</mods:extent>
+            <mods:extent>66 pages</mods:extent>
+        </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+        
+    <vraSection>
+        <vra:work id="davis6" refid="trashArt14" source="Trash Art Collection">
+           <vra:culturalContextSet>
+               <vra:culturalContext vocab="ULAN Nationalities and Places">American</vra:culturalContext>
+           </vra:culturalContextSet>
+           <vra:rightsSet>
+               <vra:rights type="copyrighted">
+                   <vra:rightsHolder>Found Poetry Review </vra:rightsHolder>
+                   <vra:text>The entity is made up of various poems by various authors. Reprint rights revert to the author after publication.</vra:text>
+               </vra:rights>
+           </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
