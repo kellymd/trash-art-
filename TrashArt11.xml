@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<trashArt xmlns="https://github.com/kellymd/trash-art-/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/kellymd/trash-art-/ https://raw.githubusercontent.com/kellymd/trash-art-/master/trashart.xsd">
+
+    <materials>trash</materials>    
+        <materialType>1949-1963 junk Cadillacs, including the rise and fall of the tailfin</materialType>
+    <hours>
+        <startHour>00:00:00</startHour>
+        <endHour>24:00:00</endHour>
+    </hours>
+    <publicAccess>yes</publicAccess>
+    <accessNote>Technically on private land, but visiting and adding graffiti is encouraged any time.</accessNote>
+    <theme>art history</theme>
+    <theme>subversion</theme>    
+    <theme>fun</theme>
+    
+    <modsSection>
+        <mods:mods>
+    <mods:titleInfo>
+            <mods:title>Cadillac Ranch</mods:title>
+        </mods:titleInfo>
+        <mods:name type="personal" authority="ULAN">
+            <mods:namePart type="family">Lord</mods:namePart>
+            <mods:namePart type="given">Chip</mods:namePart>
+            <mods:affiliation>Ant Farm</mods:affiliation>
+            <mods:role>
+                <mods:roleTerm authority="ULAN">artist</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name type="personal" authority="ULAN">
+            <mods:namePart type="family">Michels</mods:namePart>
+            <mods:namePart type="given">Doug</mods:namePart>
+            <mods:affiliation>Ant Farm</mods:affiliation>
+            <mods:role>
+                <mods:roleTerm authority="ULAN">artist</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name type="personal" authority="ULAN">
+            <mods:namePart type="family">Marquez</mods:namePart>
+            <mods:namePart type="given">Hudson</mods:namePart>
+            <mods:affiliation>Ant Farm</mods:affiliation>
+            <mods:role>
+                <mods:roleTerm authority="ULAN">artist</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:originInfo>
+            <mods:place>
+                <mods:placeTerm>cow pasture along eastbound I-40 between exits 60 and 62</mods:placeTerm>
+                <mods:placeTerm>Amarillo</mods:placeTerm>
+                <mods:placeTerm authority="marccountry">txu</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>Stanley Marsh</mods:publisher>
+            <mods:dateCreated encoding="iso8601">1974</mods:dateCreated>
+            <mods:dateOther encoding="iso8601" type="alteration">1997</mods:dateOther>
+        </mods:originInfo>
+        <mods:abstract>Public americana art installation consisting of ten Cadillac cars, models from 1949-1963 buried nose down in the ground and now covered in graffiti</mods:abstract>
+        <mods:subject authority="LCSH">
+            <mods:topic>americana</mods:topic>
+            <mods:topic>tourism</mods:topic>
+        </mods:subject>
+        <mods:physicalDescription>
+            <mods:form authority="AAT">installtion art</mods:form>
+            <mods:extent>10 cars</mods:extent>
+        </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+        
+    <vraSection>
+        <vra:work>
+           <vra:culturalContextSet>
+               <vra:culturalContext vocab="ULAN Nationalities and Places">American</vra:culturalContext>
+           </vra:culturalContextSet>
+           <vra:rightsSet>
+               <vra:rights type="copyrighted">
+                   <vra:rightsHolder>Stanley Marsh 3 Family Trust</vra:rightsHolder>
+               </vra:rights>
+           </vra:rightsSet>
+        </vra:work>
+    </vraSection>
+</trashArt>
+
